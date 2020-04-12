@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TrackCovid19</string>
+    <string name="title_home">Home</string>
+    <string name="title_country">World</string>
+    <string name="india">Country</string>
+    <string name="india1">India</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="error_cannot_connect_to_internet">Error: Cannot Connect to Internet</string>
+    <string name="network_error">network_error</string>
+    <string name="developed_and_desgined_by_s_prasanna_venkatesh_nan_open_source_and_mit_lisenced_project">Developed and Desgined by S.Prasanna Venkatesh\nAn Open Source and GNU V3 Licenced Project</string>
+</resources>
